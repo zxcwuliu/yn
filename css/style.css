@@ -694,7 +694,7 @@ img {
 	width: 100%;
 }
 #home {
-	background: url(../images/bg-mia.jpg) no-repeat center center fixed;
+	background: url(../images/小春物流前台.jpg) no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -781,4 +781,5 @@ img {
 .cd-top:hover {
 	background-color: #d63c5d;
 	opacity: 1;
+
 }
